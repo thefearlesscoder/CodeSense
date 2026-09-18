@@ -5,3 +5,4 @@ graph.json
 !.env.example
 secrets/
 RepoGraph_Build_Guide.md
+README.md
