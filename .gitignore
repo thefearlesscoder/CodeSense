@@ -4,3 +4,4 @@ graph.json
 .env.*
 !.env.example
 secrets/
+RepoGraph_Build_Guide.md
